@@ -1,0 +1,11 @@
+{
+  "name": "character4u-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/h662/character4u-backend.git",
+  "author": "h662 <godh662@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
